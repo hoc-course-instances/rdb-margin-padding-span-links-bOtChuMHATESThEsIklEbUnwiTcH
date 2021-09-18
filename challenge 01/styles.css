@@ -3,6 +3,7 @@
   color: white;
   width: 560px;
   margin: 0 auto;
+  padding: 40px;
 }
 
 h1 {
@@ -14,5 +15,16 @@ p {
 }
 
 .links {
+  
 }
 
+.s {display: inline;}
+
+.a{color: darkkhaki;}
+
+
+a {color: yellow;
+}
+
+a:hover {color: black;}
+a:focus{color: wheat;}
