@@ -30,6 +30,14 @@ p {
    padding: 5%;
 }
 
+.p1-1 {display: inline-block;}
+
+.p1-2 {
+display: flex;
+float: right;
+
+}
+
 
 .p2 {
 display: flex;
@@ -122,5 +130,8 @@ img{
 
    .p2-t1{
       width: 90%;
+   }
+   .p1 {
+      flex-direction: column;
    }
  }
